@@ -31,8 +31,8 @@
       <file leaf-file-name="theme.liquid" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/arronfirststore-myshopify-com-debut/layout/theme.liquid">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="392">
+              <caret line="94" column="42" lean-forward="false" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,7 +121,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1537" />
+    <option name="x" value="1464" />
     <option name="y" value="-158" />
     <option name="width" value="1639" />
     <option name="height" value="963" />
@@ -234,7 +234,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483978799402</updated>
-      <workItem from="1483978800620" duration="2773000" />
+      <workItem from="1483978800620" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="readMe update">
       <created>1483981567210</created>
@@ -243,14 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1483981567210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove test">
+      <created>1483981607830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1483981607830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2773000" />
+    <option name="totallyTimeSpent" value="3500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1537" y="-158" width="1639" height="963" extended-state="0" />
+    <frame x="1464" y="-158" width="1639" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2316844" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -280,7 +287,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readMe update" />
-    <option name="LAST_COMMIT_MESSAGE" value="readMe update" />
+    <MESSAGE value="remove test" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -340,16 +348,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arronfirststore-myshopify-com-debut/layout/theme.liquid">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="392">
+          <caret line="94" column="42" lean-forward="false" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
           <folding />
         </state>
       </provider>
